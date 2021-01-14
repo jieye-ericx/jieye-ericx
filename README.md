@@ -3,6 +3,8 @@
 ![Metrics](https://github.com/radoapx/radoapx/blob/main/github-metrics.svg)
 <!--START_SECTION:waka-->
 ```text
+Week: 06 January, 2021 - 13 January, 2021
+
 HTML         2 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.04 % 
 Python       2 hrs 35 mins   ██████████▒░░░░░░░░░░░░░░   40.79 % 
 JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
