@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2021 - 13 January, 2021
+Week: 07 January, 2021 - 14 January, 2021
 
-HTML         2 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.04 % 
-Python       2 hrs 35 mins   ██████████▒░░░░░░░░░░░░░░   40.79 % 
-JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Vue.js       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Git Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Python       3 hrs 39 mins   ████████████▒░░░░░░░░░░░░   48.88 % 
+HTML         2 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   38.33 % 
+JavaScript   34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
 
