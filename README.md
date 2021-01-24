@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
-JSX          2 hrs 14 mins   ███████████████▓░░░░░░░░░   62.76 % 
-Python       45 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 % 
-Git Config   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JSX          2 hrs 22 mins   ███████████████▓░░░░░░░░░   62.18 % 
+Python       45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Git Config   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+JSON         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
 <!--END_SECTION:waka-->
 
