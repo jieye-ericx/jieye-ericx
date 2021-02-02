@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2021 - 31 January, 2021
+Week: 25 January, 2021 - 01 February, 2021
 
 JSX          1 hr 52 mins    ████████▓░░░░░░░░░░░░░░░░   34.15 % 
 C++          1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.23 % 
