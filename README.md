@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
-C++          1 hr 30 mins    ███████████████░░░░░░░░░░   60.66 % 
-Other        44 mins         ███████▓░░░░░░░░░░░░░░░░░   30.22 % 
-Python       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+C++          3 hrs 1 min     ███████████████████░░░░░░   75.64 % 
+Other        44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Python       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JavaScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
