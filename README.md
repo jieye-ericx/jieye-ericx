@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
+Week: 07 February, 2021 - 14 February, 2021
 
-JavaScript   4 hrs 23 mins   ████████████████▓░░░░░░░░   66.44 % 
-C++          2 hrs 12 mins   ████████▒░░░░░░░░░░░░░░░░   33.41 % 
+JavaScript   6 hrs 7 mins    ████████████████████░░░░░   79.74 % 
+C++          1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 ```
 <!--END_SECTION:waka-->
 
