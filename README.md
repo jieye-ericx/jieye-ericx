@@ -4,9 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2021 - 18 February, 2021
+Week: 12 February, 2021 - 19 February, 2021
 
-JavaScript   5 hrs 37 mins   █████████████████████████   99.97 % 
+JavaScript   5 hrs 5 mins    █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
 
