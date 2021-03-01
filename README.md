@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 21 February, 2021 - 28 February, 2021
 
-JavaScript   34 mins         ███████████████▒░░░░░░░░░   61.24 % 
-Python       18 mins         ████████░░░░░░░░░░░░░░░░░   32.57 % 
-HTML         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+JavaScript   32 mins         ███████████████░░░░░░░░░░   59.54 % 
+Python       18 mins         ████████▓░░░░░░░░░░░░░░░░   34.00 % 
+HTML         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
 <!--END_SECTION:waka-->
 
