@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 February, 2021 - 03 March, 2021
+Week: 25 February, 2021 - 04 March, 2021
 
 C++          6 hrs 3 mins    ████████████████████████░   96.33 % 
 JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
