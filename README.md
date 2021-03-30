@@ -4,11 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 March, 2021 - 28 March, 2021
+Week: 22 March, 2021 - 29 March, 2021
 
-C++          3 hrs 37 mins   █████████████▒░░░░░░░░░░░   53.50 % 
-Markdown     2 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.42 % 
-JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Markdown     2 hrs 36 mins   █████████████████████▓░░░   86.10 % 
+C++          24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 ```
 <!--END_SECTION:waka-->
 
