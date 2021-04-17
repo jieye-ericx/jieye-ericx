@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
-Python       2 hrs 56 mins   █████████▓░░░░░░░░░░░░░░░   39.02 % 
-Markdown     1 hr 55 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.50 % 
-JavaScript   1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-YAML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Python       2 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.39 % 
+JavaScript   2 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.24 % 
+Markdown     1 hr 55 mins    ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+YAML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 <!--END_SECTION:waka-->
 
