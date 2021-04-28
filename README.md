@@ -4,13 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 April, 2021 - 26 April, 2021
+Week: 20 April, 2021 - 27 April, 2021
 
-Python       15 hrs 36 mins  ████████████████▓░░░░░░░░   66.05 % 
-Other        1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-INI          1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-YAML         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-JavaScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Python       13 hrs 58 mins  ███████████████░░░░░░░░░░   59.49 % 
+Other        3 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+INI          1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+YAML         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+JavaScript   1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 <!--END_SECTION:waka-->
 
