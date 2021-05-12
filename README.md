@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
 Vue.js       5 hrs 5 mins    ██████████████▓░░░░░░░░░░   58.02 % 
 Python       2 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   29.21 % 
