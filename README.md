@@ -4,9 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 May, 2021 - 05 June, 2021
+Week: 30 May, 2021 - 06 June, 2021
 
-CSV      16 mins         █████████████████████████   99.97 % 
+CSV      16 mins         ███████████████▓░░░░░░░░░   62.24 % 
+YAML     9 mins          █████████░░░░░░░░░░░░░░░░   35.87 % 
 ```
 <!--END_SECTION:waka-->
 
