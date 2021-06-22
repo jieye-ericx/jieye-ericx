@@ -4,11 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
-
-JavaScript   43 mins         ███████████████████░░░░░░   76.23 % 
-HTML         10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.65 % 
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
