@@ -4,9 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 July, 2021 - 15 July, 2021
+Week: 10 July, 2021 - 16 July, 2021
 
-JavaScript   1 hr 18 mins    █████████████████████████   100.00 % 
+JavaScript   1 hr 39 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
