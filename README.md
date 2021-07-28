@@ -4,10 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2021 - 26 July, 2021
+Week: 21 July, 2021 - 27 July, 2021
 
-JavaScript   1 hr 32 mins    ████████████████████████░   96.24 % 
-Vue.js       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JavaScript   1 hr 35 mins    ████████████████████████▓   98.49 % 
 C++          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
