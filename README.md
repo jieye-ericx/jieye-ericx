@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2021 - 18 August, 2021
+Week: 13 August, 2021 - 19 August, 2021
 
-JavaScript   1 hr 35 mins    ██████████████████████░░░   88.03 % 
-Python       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C++          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JavaScript   2 hrs 2 mins    ██████████████████████▓░░   90.52 % 
+Python       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+C++          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 <!--END_SECTION:waka-->
 
