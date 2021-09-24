@@ -4,9 +4,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-Other      2 mins          █████████████████████████   100.00 % 
+Other      5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
