@@ -4,9 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
+Week: 08 October, 2021 - 14 October, 2021
 
-Python   30 mins         █████████████████████████   99.76 % 
+Python       4 hrs 8 mins    ███████████████████████▒░   93.13 % 
+Text         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->
 
