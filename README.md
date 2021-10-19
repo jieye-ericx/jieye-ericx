@@ -4,11 +4,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2021 - 17 October, 2021
+Week: 12 October, 2021 - 18 October, 2021
 
-Python       6 hrs 56 mins   ██████████████████████▓░░   90.20 % 
-Text         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python       7 hrs 21 mins   ██████████████████████▓░░   90.70 % 
+Text         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
