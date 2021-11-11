@@ -4,13 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 November, 2021 - 09 November, 2021
+Week: 04 November, 2021 - 10 November, 2021
 
-Python     40 mins         ████████▓░░░░░░░░░░░░░░░░   34.73 % 
-Bash       38 mins         ████████▒░░░░░░░░░░░░░░░░   33.65 % 
-Docker     19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Markdown   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Text       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Python     39 mins         ████████████▓░░░░░░░░░░░░   50.34 % 
+Bash       22 mins         ███████▒░░░░░░░░░░░░░░░░░   28.76 % 
+Markdown   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Docker     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 ```
 <!--END_SECTION:waka-->
 
