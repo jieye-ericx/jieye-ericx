@@ -4,12 +4,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
-Python           48 mins         █████████████████░░░░░░░░   67.36 % 
-GitIgnore file   20 mins         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-Markdown         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-INI              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python           21 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.58 % 
+GitIgnore file   20 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
+Text             19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+JavaScript       19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+JSON             7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 ```
 <!--END_SECTION:waka-->
 
