@@ -4,10 +4,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-Text       18 mins         █████████████████████▓░░░   87.00 % 
-Other      2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Text       18 mins         ██████████████████████░░░   87.49 % 
+Other      2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 ```
 <!--END_SECTION:waka-->
 
