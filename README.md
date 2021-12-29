@@ -4,10 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
-
-Other   55 mins         ██████████████░░░░░░░░░░░   55.84 % 
-C++     44 mins         ███████████░░░░░░░░░░░░░░   44.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
