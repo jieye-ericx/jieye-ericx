@@ -4,7 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 Markdown   2 mins          ████████████████▒░░░░░░░░   65.59 % 
 Other      1 min           ████████▓░░░░░░░░░░░░░░░░   34.41 % 
