@@ -4,12 +4,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-Vue.js       2 hrs 22 mins   ██████████████▓░░░░░░░░░░   58.14 % 
-JavaScript   1 hr 26 mins    █████████░░░░░░░░░░░░░░░░   35.48 % 
-HTML         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Vue.js       2 hrs 48 mins   ██████████████▓░░░░░░░░░░   58.22 % 
+JavaScript   1 hr 48 mins    █████████▒░░░░░░░░░░░░░░░   37.33 % 
+HTML         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 <!--END_SECTION:waka-->
 
