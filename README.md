@@ -3,9 +3,14 @@
 ![Metrics](https://github.com/radoapx/radoapx/blob/main/github-metrics.svg)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+From: 20 February 2022 - To: 27 February 2022
+
+Python     57 mins         ██████████████████████▒░░   88.85 %
+Markdown   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
