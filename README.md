@@ -5,7 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 March 2022 - To: 31 March 2022
+
+Python       40 mins         ██████████▒░░░░░░░░░░░░░░   40.75 %
+Vue.js       20 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+HTML         16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+JavaScript   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Markdown     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
