@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2022 - To: 05 April 2022
+From: 30 March 2022 - To: 06 April 2022
 
 Python       51 mins         █████████▒░░░░░░░░░░░░░░░   37.69 %
 Vue.js       25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
