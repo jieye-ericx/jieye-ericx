@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
-Python             6 hrs 24 mins   ██████████████████████░░░   87.51 %
-Text               23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Jupyter            18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-JavaScript         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-GitIgnore file     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Vue.js             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python             6 hrs 21 mins   ███████████████████████░░   91.83 %
+Text               23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+GitIgnore file     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Markdown           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
