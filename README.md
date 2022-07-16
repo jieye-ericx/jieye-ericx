@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 July 2022 - To: 14 July 2022
+From: 08 July 2022 - To: 15 July 2022
 
-Vue.js                     5 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   39.47 %
-JavaScript                 4 hrs 25 mins   ████████░░░░░░░░░░░░░░░░░   31.59 %
-HTML                       1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-JSON                       55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-SCSS                       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Nginx configuration file   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JavaScript                 5 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.36 %
+Vue.js                     5 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.85 %
+HTML                       2 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Markdown                   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+JSON                       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Nginx configuration file   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
