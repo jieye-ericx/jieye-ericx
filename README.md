@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
-Vue.js       5 hrs 33 mins   ██████████░░░░░░░░░░░░░░░   39.83 %
-Python       4 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 %
-YAML         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-JSON         1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-TypeScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Vue.js       6 hrs 22 mins   ████████████▒░░░░░░░░░░░░   49.06 %
+Python       3 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+YAML         1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+JSON         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+JavaScript   48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
