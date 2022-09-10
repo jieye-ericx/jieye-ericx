@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 August 2022 - To: 07 September 2022
+From: 01 September 2022 - To: 08 September 2022
 
-Vue.js       2 hrs 48 mins   ███████████████▒░░░░░░░░░   61.65 %
-Bash         27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Other        27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Bash         27 mins         █████████▒░░░░░░░░░░░░░░░   37.21 %
+Other        27 mins         █████████▒░░░░░░░░░░░░░░░   36.76 %
 ```
 
 <!--END_SECTION:waka-->
