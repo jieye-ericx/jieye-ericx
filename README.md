@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-Bash         27 mins         █████████▒░░░░░░░░░░░░░░░   37.21 %
-Other        27 mins         █████████▒░░░░░░░░░░░░░░░   36.76 %
+Bash         27 mins         ██████████▒░░░░░░░░░░░░░░   41.33 %
+Other        27 mins         ██████████▒░░░░░░░░░░░░░░   40.83 %
 ```
 
 <!--END_SECTION:waka-->
