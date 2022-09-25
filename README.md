@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 22 September 2022
+From: 17 September 2022 - To: 24 September 2022
 
 SQL      47 mins         ███████████████████░░░░░░   75.96 %
 Python   15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.04 %
