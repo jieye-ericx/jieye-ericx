@@ -5,11 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
-Python           1 hr 5 mins     █████████████▓░░░░░░░░░░░   54.05 %
-Text             35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-Other            9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Python           3 hrs 31 mins   ██████████████████▓░░░░░░   74.82 %
+Text             36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Other            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
