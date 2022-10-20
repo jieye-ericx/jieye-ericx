@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-Python           8 hrs 50 mins   ███████████████████░░░░░░   76.15 %
-JSON             58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-TeX              49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Markdown         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-YAML             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-GitIgnore file   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Python           12 hrs 34 mins  █████████████████████▒░░░   84.91 %
+TeX              49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+JSON             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+GitIgnore file   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Markdown         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Docker File      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
