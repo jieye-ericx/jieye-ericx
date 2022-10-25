@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
+From: 17 October 2022 - To: 24 October 2022
 
-Python           20 hrs 11 mins  ███████████████████████▒░   93.51 %
-Markdown         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-GitIgnore file   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Text             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python           16 hrs 58 mins  █████████████████░░░░░░░░   67.78 %
+Vue.js           4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+TypeScript       1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JSON             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Text             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
