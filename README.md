@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
+From: 17 November 2022 - To: 24 November 2022
 
-Python           5 hrs 14 mins   ███████████░░░░░░░░░░░░░░   44.44 %
-Vue.js           4 hrs 31 mins   █████████▓░░░░░░░░░░░░░░░   38.39 %
-TypeScript       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Markdown         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Vue.js           8 hrs 12 mins   ████████████▒░░░░░░░░░░░░   48.76 %
+Python           6 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.35 %
+Markdown         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+TypeScript       51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+textmate         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
