@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Go           1 hr            ██████████████████▒░░░░░░   72.93 %
-Python       19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.41 %
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash             30 mins         █████████▓░░░░░░░░░░░░░░░   38.68 %
+Python           25 mins         ████████░░░░░░░░░░░░░░░░░   32.09 %
+YAML             18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
