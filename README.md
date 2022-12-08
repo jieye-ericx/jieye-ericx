@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
-TypeScript       56 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Bash             54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Python           45 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Other            36 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Python           1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+TypeScript       1 hr 39 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+Other            1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.39 %
 ```
 
 <!--END_SECTION:waka-->
