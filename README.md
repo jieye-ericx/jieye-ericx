@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Python           1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-TypeScript       1 hr 39 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
-Other            1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+TypeScript       1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+Python           1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
+Other            1 hr 28 mins    ██████░░░░░░░░░░░░░░░░░░░   23.41 %
 ```
 
 <!--END_SECTION:waka-->
