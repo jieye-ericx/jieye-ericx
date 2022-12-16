@@ -5,10 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 December 2022 - To: 14 December 2022
+From: 08 December 2022 - To: 15 December 2022
 
-Go     17 mins         ████████████████████████░   96.15 %
-Text   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Go     17 mins         ███████████████████████▒░   93.21 %
+Text   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Bash   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
