@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
+From: 15 December 2022 - To: 22 December 2022
 
-Go     19 mins         ██████████████████████░░░   88.39 %
-INI    1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Bash   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Go    19 mins         ██████████████████████▓░░   90.87 %
+INI   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
 ```
 
 <!--END_SECTION:waka-->
