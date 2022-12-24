@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
-
-Go    19 mins         ██████████████████████▓░░   90.87 %
-INI   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
