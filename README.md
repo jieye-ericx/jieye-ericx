@@ -5,7 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 December 2022 - To: 27 December 2022
+
+JavaScript       1 hr 11 mins    ████████▓░░░░░░░░░░░░░░░░   34.00 %
+Markdown         1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+YAML             23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+TypeScript       19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+JSON             16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Python           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
