@@ -5,13 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-Python           1 hr 54 mins    ██████████████████▓░░░░░░   74.97 %
-Text             24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Markdown         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-HTML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python           5 hrs 31 mins   ████████████████████▓░░░░   82.37 %
+Text             42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+PythonStub       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Markdown         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+HTML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
