@@ -5,14 +5,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Python           5 hrs 55 mins   ███████████████████▒░░░░░   77.20 %
-TypeScript       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Text             34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-PythonStub       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Markdown         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-HTML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python           7 hrs 50 mins   ███████████████████▓░░░░░   79.00 %
+TypeScript       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Text             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Vue.js           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+PythonStub       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
