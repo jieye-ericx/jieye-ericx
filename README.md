@@ -5,7 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 January 2023 - To: 26 January 2023
+
+Go               10 mins         ████████████████████████▓   98.60 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
