@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Go               3 hrs 50 mins   █████████████████████████   99.70 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go               4 hrs 4 mins    ████████████████████████▓   99.02 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+go.mod           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
