@@ -5,12 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
-Go         41 mins         ███████████████████████░░   91.55 %
-JSON       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Python     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Go     1 hr 28 mins    ████████████████████████▒   97.64 %
+JSON   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
