@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 02 March 2023
+From: 24 February 2023 - To: 03 March 2023
 
-Go           6 hrs 6 mins    ██████████████████████▓░░   90.26 %
-C++          24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Go           6 hrs 52 mins   ████████████████████▒░░░░   80.78 %
+C++          1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
