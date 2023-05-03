@@ -5,9 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 25 April 2023 - To: 02 May 2023
 
-No activity tracked
+YAML         55 mins         ██████████▒░░░░░░░░░░░░░░   41.33 %
+Markdown     40 mins         ███████▓░░░░░░░░░░░░░░░░░   30.61 %
+Other        14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
 ```
 
 <!--END_SECTION:waka-->
