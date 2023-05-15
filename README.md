@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2023 - To: 13 May 2023
+From: 07 May 2023 - To: 14 May 2023
 
-Java       3 mins          ██████████████████░░░░░░░   72.47 %
-Go         1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Markdown   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
