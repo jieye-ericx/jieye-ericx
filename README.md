@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 May 2023 - To: 21 May 2023
+From: 15 May 2023 - To: 22 May 2023
 
-Java   0 secs          █████████████████████████   100.00 %
+Java             3 hrs 25 mins   ███████████████████▒░░░░░   76.69 %
+XML              40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Text             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Properties       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
