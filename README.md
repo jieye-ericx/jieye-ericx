@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 Java         15 hrs 58 mins  █████████████████████▒░░░   85.77 %
 XML          2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
