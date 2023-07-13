@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2023 - To: 11 July 2023
+From: 05 July 2023 - To: 12 July 2023
 
-Java             13 hrs 47 mins  █████████████████████████   99.65 %
+Java             13 hrs 4 mins   ████████████████████████▒   97.37 %
+XML              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 Shell Script     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
