@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-Java             4 hrs 54 mins   ██████████████████▓░░░░░░   74.21 %
-YAML             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-Markdown         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-TSConfig         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-TypeScript       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Java             7 hrs           ██████████████████▓░░░░░░   75.20 %
+Text             37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+YAML             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Markdown         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+TSConfig         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
