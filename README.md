@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Java             11 hrs 16 mins  ███████████████████████▓░   94.47 %
-Text             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Java             11 hrs 1 min    ███████████████████████▓░   94.39 %
+Text             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
