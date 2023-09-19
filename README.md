@@ -5,10 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-Java       8 hrs 5 mins    █████████████████████████   100.00 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   7 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
