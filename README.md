@@ -5,10 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Python   39 mins         ████████████████████████▓   99.03 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+XML          58 mins         ██████████░░░░░░░░░░░░░░░   39.37 %
+Java         45 mins         ███████▓░░░░░░░░░░░░░░░░░   30.65 %
+Python       43 mins         ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
