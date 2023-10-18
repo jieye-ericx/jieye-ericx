@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-Java              9 hrs 31 mins   ███████████████████░░░░░░   76.26 %
-XML               2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-Properties        29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Java Properties   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Text              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java              9 hrs 27 mins   █████████████████▓░░░░░░░   71.32 %
+XML               2 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+Java Properties   47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Properties        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Text              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
