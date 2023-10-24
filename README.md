@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Python                     12 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   36.68 %
-Java                       6 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-Vue.js                     6 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-TypeScript                 1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Docker                     1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Python                     12 hrs 35 mins  ████████▓░░░░░░░░░░░░░░░░   34.41 %
+Java                       8 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Vue.js                     6 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+TypeScript                 1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Docker                     1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
