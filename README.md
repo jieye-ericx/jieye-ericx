@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2023 - To: 18 November 2023
+From: 12 November 2023 - To: 19 November 2023
 
-Java             4 hrs 19 mins   ███████████████████░░░░░░   76.41 %
-JSON             57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+Java             4 hrs 19 mins   ███████████████████░░░░░░   76.40 %
+JSON             57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
 XML              19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
