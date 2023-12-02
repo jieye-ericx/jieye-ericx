@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2023 - To: 30 November 2023
+From: 24 November 2023 - To: 01 December 2023
 
-Java            6 hrs 53 mins   ██████████████░░░░░░░░░░░   56.63 %
-PlantUML file   2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-JSON            1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Text            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-XML             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Java            5 hrs 16 mins   █████████████░░░░░░░░░░░░   51.93 %
+PlantUML file   2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
+JSON            1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+Text            20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Vue.js          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
