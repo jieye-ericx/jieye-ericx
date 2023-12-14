@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2023 - To: 11 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Python       55 mins         ██████████████░░░░░░░░░░░   56.00 %
-TypeScript   28 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
-TeX          14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python          55 mins         ██████████░░░░░░░░░░░░░░░   40.57 %
+TypeScript      28 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
+TeX             28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 %
+PlantUML file   22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Vue.js          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
