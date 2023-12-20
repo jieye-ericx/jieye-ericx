@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2023 - To: 18 December 2023
+From: 12 December 2023 - To: 19 December 2023
 
-PlantUML file   22 mins         ██████████████▓░░░░░░░░░░   58.96 %
-TeX             14 mins         █████████░░░░░░░░░░░░░░░░   36.33 %
-YAML            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Vue.js          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-TypeScript      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       14 mins         ████████████░░░░░░░░░░░░░   47.70 %
+TeX          14 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
+YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Vue.js       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
