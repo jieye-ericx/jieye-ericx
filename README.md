@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
-Python       14 mins         ████████████░░░░░░░░░░░░░   47.70 %
-TeX          14 mins         ███████████▓░░░░░░░░░░░░░   46.30 %
-YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Vue.js       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python     15 mins         ███████████████████████▓░   94.34 %
+YAML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
