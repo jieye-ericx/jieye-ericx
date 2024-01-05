@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-No activity tracked
+TeX          26 mins         ██████████████████▓░░░░░░   74.39 %
+JSON         8 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+BST          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
