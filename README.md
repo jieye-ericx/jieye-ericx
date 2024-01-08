@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
 TeX          2 hrs 9 mins    ████████████████████▓░░░░   82.38 %
 BibTeX       18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
