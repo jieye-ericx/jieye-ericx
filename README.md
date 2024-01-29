@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2024 - To: 27 January 2024
+From: 21 January 2024 - To: 28 January 2024
 
-TeX          1 hr 28 mins    █████████▓░░░░░░░░░░░░░░░   38.10 %
-Python       38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Markdown     37 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-TypeScript   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-YAML         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Python       37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Markdown     37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
+TeX          36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+TypeScript   22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+YAML         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
 ```
 
 <!--END_SECTION:waka-->
