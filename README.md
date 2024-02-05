@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2024 - To: 03 February 2024
+From: 28 January 2024 - To: 04 February 2024
 
-TeX      33 mins         ██████████▓░░░░░░░░░░░░░░   43.31 %
-JSON     25 mins         ████████▒░░░░░░░░░░░░░░░░   33.03 %
-Python   18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Vue.js   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TeX      33 mins         ██████████▓░░░░░░░░░░░░░░   43.26 %
+JSON     25 mins         ████████▒░░░░░░░░░░░░░░░░   33.12 %
+Python   18 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
 ```
 
 <!--END_SECTION:waka-->
