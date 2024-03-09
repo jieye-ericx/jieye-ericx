@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 07 March 2024
+From: 01 March 2024 - To: 08 March 2024
 
-TeX             3 hrs           ██████████████████████▒░░   89.20 %
-Python          21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+TeX             2 hrs 58 mins   ██████████████████████▒░░   89.08 %
+Python          21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
 PlantUML file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
