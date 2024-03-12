@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2024 - To: 10 March 2024
+From: 04 March 2024 - To: 11 March 2024
 
-TeX             1 hr 52 mins    ███████████████████████▒░   92.85 %
-Python          8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-BibTeX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-PlantUML file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TeX             38 mins         ████████████████████▒░░░░   81.70 %
+Python          8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
+BibTeX          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PlantUML file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
