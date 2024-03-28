@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Python          2 hrs 5 mins    ████████████████░░░░░░░░░   64.46 %
-PlantUML file   35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-TypeScript      15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-TeX             12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-JSON            5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Python          1 hr 9 mins     █████████████░░░░░░░░░░░░   52.18 %
+PlantUML file   35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+TypeScript      15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+TeX             12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
