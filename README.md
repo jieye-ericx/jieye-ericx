@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-TypeScript      14 mins         ██████████░░░░░░░░░░░░░░░   39.89 %
-PlantUML file   14 mins         ██████████░░░░░░░░░░░░░░░   39.86 %
-TeX             7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
