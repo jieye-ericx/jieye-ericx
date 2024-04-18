@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
-Python           3 hrs 22 mins   ████████████████▒░░░░░░░░   64.69 %
-Java             1 hr 50 mins    ████████▓░░░░░░░░░░░░░░░░   35.22 %
+Python           3 hrs 22 mins   ████████████████▒░░░░░░░░   64.67 %
+Java             1 hr 50 mins    ████████▓░░░░░░░░░░░░░░░░   35.24 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PlantUML file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
