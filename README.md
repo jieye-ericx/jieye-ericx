@@ -5,11 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2024 - To: 22 April 2024
+From: 16 April 2024 - To: 23 April 2024
 
-Java            24 mins         █████████████████████████   99.94 %
-XML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-PlantUML file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java            0 secs          ████████████████████████░   95.67 %
+PlantUML file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
