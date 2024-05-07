@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2024 - To: 05 May 2024
+From: 29 April 2024 - To: 06 May 2024
 
 BibTeX   1 hr 44 mins    ████████████████████████░   95.42 %
 Other    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
