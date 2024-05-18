@@ -5,10 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-Other   6 mins          ████████████████▒░░░░░░░░   65.59 %
-XML     3 mins          ████████▓░░░░░░░░░░░░░░░░   34.41 %
+Other   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
