@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 11 July 2024
+From: 05 July 2024 - To: 12 July 2024
 
-Java            7 hrs 59 mins   █████████████████████▓░░░   86.86 %
-PlantUML file   55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-XML             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Java            4 hrs 35 mins   ███████████████████████▒░   93.56 %
+PlantUML file   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+XML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
