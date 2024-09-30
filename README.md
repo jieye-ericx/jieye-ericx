@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2024 - To: 28 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
-Other           40 hrs 55 mins  ██████████████████████░░░   87.71 %
-Java            4 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Bash            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-JavaScript      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-XML             14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other           44 hrs 11 mins  ██████████████████████░░░   88.00 %
+Java            4 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Bash            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JavaScript      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+XML             14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
