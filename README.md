@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Other   4 hrs 20 mins   █████████████████████████   99.81 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-C++     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
