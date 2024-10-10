@@ -5,9 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-Other   7 hrs 18 mins   █████████████████████████   100.00 %
+Other   16 hrs 6 mins   ████████████████████████▒   96.87 %
+C++     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+SQL     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+C       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
