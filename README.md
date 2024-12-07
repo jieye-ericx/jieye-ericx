@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Other           24 hrs 21 mins  ███████████████░░░░░░░░░░   60.65 %
-Java            13 hrs 54 mins  ████████▓░░░░░░░░░░░░░░░░   34.62 %
-JSON            1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-PlantUML file   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-XML             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other           22 hrs 53 mins  ██████████████▓░░░░░░░░░░   58.73 %
+Java            13 hrs 54 mins  █████████░░░░░░░░░░░░░░░░   35.71 %
+JSON            56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+PlantUML file   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+XML             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
