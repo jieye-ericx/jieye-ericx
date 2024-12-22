@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
 Java              9 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.63 %
 SQL               3 hrs 39 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
