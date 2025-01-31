@@ -5,13 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2025 - To: 29 January 2025
+From: 23 January 2025 - To: 30 January 2025
 
-Java          2 hrs 38 mins   ███████████▓░░░░░░░░░░░░░   47.22 %
-JSON          1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
-C++           47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-C             39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-SQL           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
