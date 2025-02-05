@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2025 - To: 03 February 2025
+From: 28 January 2025 - To: 04 February 2025
 
-No activity tracked
+C++     53 mins         █████████████▒░░░░░░░░░░░   53.54 %
+C       18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
+SQL     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Other   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Java    9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
 ```
 
 <!--END_SECTION:waka-->
