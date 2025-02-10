@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
-C++           8 hrs 2 mins    ███████████░░░░░░░░░░░░░░   43.96 %
+C++           8 hrs 2 mins    ███████████░░░░░░░░░░░░░░   43.95 %
 Java          6 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   35.96 %
 JSON          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
 C             32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
