@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
 Java            9 hrs 10 mins   ██████████████████▓░░░░░░   74.11 %
 C               1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
