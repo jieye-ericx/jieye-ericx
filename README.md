@@ -5,9 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2025 - To: 11 May 2025
+From: 05 May 2025 - To: 12 May 2025
 
-No activity tracked
+XML             39 mins         ███████████░░░░░░░░░░░░░░   43.39 %
+Java            35 mins         █████████▓░░░░░░░░░░░░░░░   38.91 %
+PlantUML file   15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
