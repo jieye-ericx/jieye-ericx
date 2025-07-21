@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2025 - To: 19 July 2025
+From: 13 July 2025 - To: 20 July 2025
 
 Java            3 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.27 %
 SQL             44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
