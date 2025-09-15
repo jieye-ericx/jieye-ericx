@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
-Java            8 hrs 43 mins   █████████████████░░░░░░░░   68.53 %
-JSON            2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-XML             34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-SQL             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-PlantUML file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Java            8 hrs 43 mins   ████████████████▓░░░░░░░░   67.17 %
+JSON            2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+XML             49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+SQL             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+PlantUML file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
