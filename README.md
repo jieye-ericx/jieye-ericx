@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2025 - To: 17 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Java                 10 hrs 26 mins  ███████████████▓░░░░░░░░░   62.65 %
-JSON                 3 hrs 34 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-XML                  2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-GitIgnore file       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Text                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Java                 8 hrs 25 mins   ██████████████░░░░░░░░░░░   55.96 %
+JSON                 3 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+XML                  2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+GitIgnore file       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text                 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
