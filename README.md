@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2025 - To: 06 December 2025
+From: 30 November 2025 - To: 07 December 2025
 
 Java             10 hrs 50 mins  █████████████░░░░░░░░░░░░   51.53 %
 JSON             8 hrs 32 mins   ██████████░░░░░░░░░░░░░░░   40.58 %
