@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2026 - To: 31 January 2026
+From: 25 January 2026 - To: 01 February 2026
 
 Java           13 hrs 27 mins  ███████████████▓░░░░░░░░░   63.16 %
 JSON           5 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
