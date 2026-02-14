@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2026 - To: 12 February 2026
+From: 06 February 2026 - To: 13 February 2026
 
-Java    5 hrs 9 mins    ████████████████████████▓   99.28 %
-XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-CLASS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java    4 hrs 47 mins   █████████████████████████   99.73 %
+CLASS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+XML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
