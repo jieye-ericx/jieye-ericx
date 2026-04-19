@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
 Other           6 hrs 16 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 %
 Java            5 hrs 20 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
