@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2026 - To: 19 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
-Java                   23 hrs 26 mins        ████████████████▓░░░░░░░░   66.65 %
-XML                    4 hrs 46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-JSON                   2 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Other                  1 hr 52 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Java Properties        1 hr 7 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Java                   21 hrs 55 mins        █████████████████░░░░░░░░   68.64 %
+XML                    3 hrs 43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+JSON                   2 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Other                  1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Java Properties        54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
