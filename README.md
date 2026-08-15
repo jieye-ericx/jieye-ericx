@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-Java              11 hrs 40 mins        █████████░░░░░░░░░░░░░░░░   35.62 %
-Markdown          9 hrs 23 mins         ███████░░░░░░░░░░░░░░░░░░   28.66 %
-Other             4 hrs 33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-JSON              2 hrs 52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-XML               1 hr 24 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Java             10 hrs 30 mins        █████████▒░░░░░░░░░░░░░░░   37.38 %
+Markdown         9 hrs 6 mins          ████████░░░░░░░░░░░░░░░░░   32.45 %
+Other            3 hrs 43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+JSON             2 hrs 43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+PlantUML file    1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
