@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2026 - To: 25 August 2026
+From: 19 August 2026 - To: 26 August 2026
 
-Java              5 hrs 49 mins         ██████████▓░░░░░░░░░░░░░░   43.10 %
-Markdown          3 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   28.52 %
-Text              1 hr 42 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other             1 hr 7 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-JSON              29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Java              6 hrs 43 mins         ███████████░░░░░░░░░░░░░░   44.48 %
+Other             3 hrs 29 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+Markdown          2 hrs 56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+Text              1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+JSON              16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
