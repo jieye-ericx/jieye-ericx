@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2026 - To: 20 October 2026
+From: 14 October 2026 - To: 21 October 2026
 
-Java              10 hrs 40 mins        ██████████░░░░░░░░░░░░░░░   39.54 %
-Other             8 hrs 33 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
-Markdown          6 hrs 26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-XML               44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Java Properties   17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Java              10 hrs 22 mins        █████████▓░░░░░░░░░░░░░░░   38.39 %
+Other             7 hrs 28 mins         ███████░░░░░░░░░░░░░░░░░░   27.62 %
+Markdown          5 hrs 18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+Python            2 hrs 45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+XML               44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
