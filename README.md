@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2026 - To: 28 October 2026
+From: 22 October 2026 - To: 29 October 2026
 
-Java              10 hrs 59 mins        █████████▒░░░░░░░░░░░░░░░   37.13 %
-Python            8 hrs 1 min           ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
-Markdown          5 hrs 20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-XML               2 hrs 29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Other             2 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+Java              8 hrs 49 mins         ███████▓░░░░░░░░░░░░░░░░░   30.74 %
+Markdown          7 hrs 6 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+Python            6 hrs 38 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+Other             3 hrs 43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+XML               1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
